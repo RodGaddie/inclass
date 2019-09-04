@@ -1,0 +1,15 @@
+1. Decide what kind of pizza we want
+2. Decide how many pizzas we want
+3. Decide how many beers we want 
+4. call the pizza place
+     a. they answered - go to step 5
+     b. they don't answer - go to step 4 again
+5. place the order
+     a. pay over phone - see step 6
+     b. pay at door - see step 7
+6. Give credit card information
+7. wait
+8. answer the door
+    a. pay at door - see step 9
+9. take pizza, and enjoy
+10. Have a great day
